@@ -7,3 +7,6 @@ it is derived (my main purpose is to port this interpreter to GNU assembler/68k)
 see [this][leee] topic about mr Lee Davison
 
 [leee] http://www.easy68k.com/EASy68Kforum/viewtopic.php?f=10&t=855&p=4475#p4475
+
+this project is based on:
+`9116	dc.b	'Enhanced 68k BASIC Version 3.52',$0D,$0A,$00`
