@@ -1,5 +1,5 @@
 # m68k-basic
-EhBasic 68000 source converted to GAS assembler
+EhBasic 68000 source converted to GNU Assembler (GAS)
 
 pulled from google code archive:
 
